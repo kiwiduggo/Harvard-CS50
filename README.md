@@ -34,5 +34,6 @@ Catch the Falling Stars
 
 \## Game Screenshot 
 
-!\[Catch the Falling Stars](catch-the-falling-stars.png)
+![Catch the Falling Stars](./catch-the-falling-stars.png)
+
 
