@@ -22,7 +22,7 @@ Catch the Falling Stars
 
 \- Scratch programming
 
-\- Loops
+\- Loops 
 
 \- Variables
 
@@ -31,4 +31,8 @@ Catch the Falling Stars
 \- Problem solving
 
 
+
+\## Game Screenshot 
+
+!\[Catch the Falling Stars](catch-the-falling-stars.png)
 
